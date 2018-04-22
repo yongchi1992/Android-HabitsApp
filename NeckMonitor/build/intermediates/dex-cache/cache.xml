@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/6adbcab7c7a9ea79934d550d52161dd6c27beae0/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_9689d66c00822e584c104e6876c895934975cdd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/6adbcab7c7a9ea79934d550d52161dd6c27beae0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef8a1ed73df0d043ab80c982b866f3d628d23e67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_448eb62adb1b3e80af5718d7bc8cb2460b553642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d37061ed5917fc1789f9e1c059d04c96ae2162f">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_006730411f6c677714affbab4dc992b519ef49c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_5a86d71be6dbd02e174db03d9478838de07e4316/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/900b10416a2f8cefd5d86423088e507009ab895b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_140c04dc277836d351c17fdf10eeed760a59f6df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/27adf96e007420ef2c3a55f44f916a3723258049/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9b6d8414893c8f0796053e0cc4677344f64e272/classes.dex" />
+    </item>
+
+</items>

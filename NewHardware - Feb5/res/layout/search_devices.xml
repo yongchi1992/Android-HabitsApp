@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/background">
+
+    
+      <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical" >
+    
+          <!-- 
+    <Button
+        android:id="@+id/scan_for_devices"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Scan" 
+        android:textStyle="bold"
+   	    android:textColor="@color/labelTextColor"/>
+    -->
+    <ListView
+        android:id="@+id/discovered_devices_list"
+        android:layout_width="wrap_content"
+        android:textColor="@color/labelTextColor"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content" >
+    </ListView>
+    
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="edu.northwestern.mhealth395.neckmonitor.StreamActivity">
+
+    <TextView
+        android:id="@+id/swallowLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/connectionText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Not connected..."
+            android:layout_weight="3"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="end"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/csvStart"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:onClick="onStartCsvClicked"
+                android:text="Start CSV" />
+
+            <Button
+                android:id="@+id/csvEnd"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:onClick="onStopCsvClicked"
+                android:text="End CSV"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/accXButton"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="onAccXClick"
+            android:text="Accel X" />
+
+        <Button
+            android:id="@+id/accYButton"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="onAccYClick"
+            android:text="Accel Y" />
+
+        <Button
+            android:id="@+id/accZButton"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="onAccZClick"
+            android:text="Accel Z" />
+
+        <Button
+            android:id="@+id/audioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="onAudioClicked"
+            android:text="Audio" />
+
+        <Button
+            android:id="@+id/piezoButton"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:onClick="onPiezoClicked"
+            android:text="Piezo" />
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/labelButton"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="start labeling"
+            android:onClick="onStartLabelClicked"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

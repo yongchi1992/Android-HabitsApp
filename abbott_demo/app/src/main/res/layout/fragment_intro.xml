@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/intro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/background_c"
+        android:textStyle="italic"
+        android:gravity="center_horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Welcome!"
+        android:textColor="#FAFAFF"
+        android:textSize="30dp" />
+    
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/editTextName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Enter Name"
+            android:inputType="textPersonName"
+            android:textColor="#FAFAFF" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/editTextAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Age"
+            android:textColor="#FAFAFF"
+            android:inputType="number" />
+        <EditText
+            android:id="@+id/editTextHeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Height"
+            android:textColor="#FAFAFF"
+            android:inputType="number" />
+        <EditText
+            android:id="@+id/editTextWeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="weight"
+            android:textColor="#FAFAFF"
+            android:inputType="number" />
+
+        <!--<RadioGroup-->
+            <!--android:id="@+id/radioSex"-->
+            <!--android:textColor="#FAFAFF"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content" >-->
+
+            <!--<RadioButton-->
+                <!--android:id="@+id/radioMale"-->
+                <!--android:textColor="#FAFAFF"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:checked="true"-->
+                <!--android:text="Male" />-->
+
+            <!--<RadioButton-->
+                <!--android:textColor="#FAFAFF"-->
+                <!--android:id="@+id/radioFemale"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Female" />-->
+        <!--</RadioGroup>-->
+
+        <!--<RadioGroup-->
+            <!--android:id="@+id/Lose_gain"-->
+            <!--android:textColor="#FAFAFF"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content" >-->
+
+            <!--<RadioButton-->
+                <!--android:id="@+id/loose"-->
+                <!--android:textColor="#FAFAFF"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:checked="true"-->
+                <!--android:text="Loose Weight" />-->
+
+            <!--<RadioButton-->
+                <!--android:id="@+id/gain"-->
+                <!--android:textColor="#FAFAFF"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Gain Weight" />-->
+        <!--</RadioGroup>-->
+
+        <Button
+            android:id="@+id/button1"
+            android:textColor="#FAFAFF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="Get Started" />
+    </LinearLayout>
+    
+
+    
+</LinearLayout>

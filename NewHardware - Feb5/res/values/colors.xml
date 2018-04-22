@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="labelTextColor">#F2F1ED</color>
+    <color name="backgroundStart">#ffffff</color>
+    <color name="backgroundEnd">#ffffff</color>
+	<color name ="scrollBackground">#ffffff</color>
+	
+ 	<color name ="yellow">#ffff00</color>
+ 	<color name = "red">#FF0000	</color>
+ 	<color name="deviceListColor">#3d3b37</color>
+ 	<color name="orange">#b9f98c06</color>
+	
+</resources>

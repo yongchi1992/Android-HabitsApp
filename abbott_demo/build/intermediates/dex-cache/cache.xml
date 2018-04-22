@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/0ec015953a2cfb3f2afa686b18c809439d853336/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e6e3e74302462684ae1f06969b8a69ea4ef3a80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2bd1caac8197f5f04a257d22d851c71bf63a772c">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b0d5525466b3786e9cd3c630de7cbc8306489ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9e3f91b0ee1f2c0629a0b49c590956eada40888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9e3f91b0ee1f2c0629a0b49c590956eada40888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/a82d03e080b19b16e68783e5b985c15686514e46/output/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.1_91d44c2550a1ebbfa626a3e4f03053d647c2837e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/libs/achartengine-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.0.0_999e5941f60da842a9ed99f3ea248386f91f6ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/a82d03e080b19b16e68783e5b985c15686514e46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9bf973a221f112f52b032341b7b5b1353626cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="976124964ddb537578fc17194830087d5dbceea8">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b0d5525466b3786e9cd3c630de7cbc8306489ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/.android/build-cache/31cc7f8654f0520ad894cc0952599ec92d1ac3d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3af18aaf4188b668d209c397f59e10a9608f55f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.1_b82e933da8c0504c7c0ca495f3c1521009dfceaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/libs/achartengine-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.0.0_999e5941f60da842a9ed99f3ea248386f91f6ad5/classes.dex" />
+    </item>
+
+</items>

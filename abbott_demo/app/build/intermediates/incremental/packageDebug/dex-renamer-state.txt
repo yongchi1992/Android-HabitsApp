@@ -1,0 +1,7 @@
+#Thu Oct 26 18:18:58 CDT 2017
+base.0=/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9e3f91b0ee1f2c0629a0b49c590956eada40888
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b0d5525466b3786e9cd3c630de7cbc8306489ee/classes.dex
+base.1=/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b0d5525466b3786e9cd3c630de7cbc8306489ee
+file.0=/Users/yongchizhang/Desktop/HabitsApp/abbott_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9e3f91b0ee1f2c0629a0b49c590956eada40888/classes.dex

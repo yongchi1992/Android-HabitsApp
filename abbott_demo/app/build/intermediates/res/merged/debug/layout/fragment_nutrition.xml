@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.bluetoothsensor.NutritionFragment">
+
+
+    <TextView
+        android:id="@+id/nutrition_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/background_c"
+        android:textStyle="italic"
+        android:gravity="center_horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Today's Nutrition"
+        android:textColor="#FAFAFF"
+        android:textSize="30dp" />
+
+    <ListView
+        android:id="@+id/nutrition_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+    <!--<ScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:id="@+id/nutrition_list"-->
+            <!--android:textColor="#FAFAFF"-->
+            <!--android:textSize="20dp"-->
+            <!--/>-->
+    <!--</ScrollView>-->
+
+</LinearLayout>

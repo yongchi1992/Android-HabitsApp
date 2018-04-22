@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewHardware - Feb52.iml" filepath="$PROJECT_DIR$/NewHardware - Feb52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abbott_demo-f84f4908c463a213587311ff96b9a5234389d05c.iml" filepath="$PROJECT_DIR$/abbott_demo-f84f4908c463a213587311ff96b9a5234389d05c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
